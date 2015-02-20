@@ -1,12 +1,12 @@
 //
-//  LPMPlaceListViewController.h
+//  LPMVIPERViewController.h
 //  lpm-solplacesnavigation-ios
 //
-//  Created by Francisco Sevillano on 20/01/15.
-//  Copyright (c) 2015 Francisco Sevillano. All rights reserved.
+//  Created by Lonely Planet Inc. on 20/01/15.
+//  Copyright (c) 2015 Lonely Planet Inc. All rights reserved.
 //
 
-#import "LPMPlaceListView.h"
+#import "LPMVIPERView.h"
 #import <UIKit/UIKit.h>
 
 @class LPMVIPERPresenter;
